@@ -77,3 +77,5 @@ de les respecter au mieux. En plus de ces preferences, il doit tenir compte
 des relations entre les colons. Certains s’entendent mal, et une
 mauvaise repartition des ressources pourrait entraıner des conflits ou
 mettre en danger la survie de la colonie
+
+Principal contributeur : Fayssal Zakaria
